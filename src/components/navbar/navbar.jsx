@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import logo from '../../logo/full-stack-Logo.svg'
 
 
@@ -12,7 +11,7 @@ const Navbar = function () {
         <nav class="navbar  bg-dark justify-content-end ">
   <div class="container  mw-100">
       
-      <img  src={logo} alt="no carga" width="120" height="50"/>
+      <img  src={logo} alt="no carga" width="290" height="50"/>
     <ul class="nav justify-content-end ">
             
             <li class="nav-item   ">
