@@ -15,13 +15,13 @@ const Navbar = function () {
     <ul class="nav justify-content-end ">
             
             <li class="nav-item   ">
-                <a class="btn btn-primary rounded-start rounded-0 " >Proyects</a>
+                <a class="btn btn-dark rounded-start rounded-0 " >Proyects</a>
             </li>
             <li class="nav-item rounded-0 ">
-                <a class="btn btn-primary  rounded-0 " >About me</a>
+                <a class="btn btn-dark  rounded-0 " >About me</a>
             </li>
             <li class="nav-item  ">
-                <a class="btn btn-primary rounded-end  rounded-0 " href='https://vinotecapp.vercel.app/' target="_blank" >VinotecApp</a>
+                <a class="btn btn-dark rounded-end  rounded-0 " href='https://vinotecapp.vercel.app/' target="_blank" >VinotecApp</a>
             </li>
             
         </ul>
